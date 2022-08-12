@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yunluo345.github.io/yunluo1743/</id>
+    <title>陨落之地</title>
+    <updated>2022-08-12T05:56:34.159Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yunluo345.github.io/yunluo1743/"/>
+    <link rel="self" href="https://yunluo345.github.io/yunluo1743/atom.xml"/>
+    <subtitle>我是可爱的落落</subtitle>
+    <logo>https://yunluo345.github.io/yunluo1743/images/avatar.png</logo>
+    <icon>https://yunluo345.github.io/yunluo1743/favicon.ico</icon>
+    <rights>All rights reserved 2022, 陨落之地</rights>
+</feed>
